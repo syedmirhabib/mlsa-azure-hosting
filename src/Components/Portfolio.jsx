@@ -31,10 +31,16 @@ const imageAltText = "desktop with Planning and portfolio";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "1Building Scalable Web Applications with AWS Amplify 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Co-authored an in-depth guide on leveraging AWS Amplify to build scalable and efficient web applications. Explored key features, best practices, and deployment strategies.",
+    url: "https://aws.amazon.com/amplify/",
+  },
+  {
+    title: "Introduction to Progressive Web Apps (PWAs)",
+    description:
+      "Collaborated on a comprehensive tutorial introducing Progressive Web Apps (PWAs), covering their benefits, architecture, and implementation strategies.",
+    url: "https://developers.google.com/web/progressive-web-apps",
   },
   {
     title: "Web Development for Beginners",
@@ -43,10 +49,22 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
+    title: "Dockerizing Your Web Development Workflow",
+    description:
+      "Contributed to a hands-on workshop demonstrating how to dockerize web development environments for consistency, portability, and efficiency.",
+    url: "https://www.docker.com/resources/what-container",
+  },
+  {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+  },
+  {
+    title: "Exploring Next.js: The React Framework",
+    description:
+      "Authored an article exploring the features and benefits of Next.js, a popular React framework, and how it streamlines the development of server-rendered React applications.",
+    url: "https://nextjs.org/",
   },
   {
     title: "GitHub Codespaces and github.dev",
