@@ -126,17 +126,17 @@ Go to the following below components to update the `import image...` line to ref
 * `/src/Components/Home.jsx` - section at top of the page, main image you will see when site loads (woman standing by server wall in sample)
    ```javascript
       import image from "../images/server-wall.jpg";
-      const imageAltText = "woman holding laptop standing by server room with glass wall";
+      const imageAltText = "A man holding running medal Standing in front of the finishing line";
    ```
 * `/src/Components/About.jsx` - background behind the detailed "About me" section (abstract mosaic in sample)
    ```javascript
       import image from "../images/mosaic.svg";
-      const imageAltText = "purple and blue abstract background";
+      const imageAltText = "Motion Background";
    ```
 * `/src/Components/Portfolio.jsx`- image highlighted in left hand side of section (design desk photo in sample)
    ```javascript
       import image from "../images/design-desk.jpeg";
-      const imageAltText = "desktop with books and laptop";
+      const imageAltText = "desktop with Planning and portfolio";
    ```
 
 ### 3️⃣ Add items you've worked on and detail text

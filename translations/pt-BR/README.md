@@ -123,19 +123,19 @@ Vá para os seguintes componentes para atualizar a linha `import image...` para 
 * `/src/Components/Home.jsx` - Seção na parte superior da página, imagem principal que você verá quando o site é carregado (mulher parada na parede do servidor no exemplo)
    ```javascript
       import image from "../images/server-wall.jpg";
-      const imageAltText = "woman holding laptop standing by server room with glass wall";
+      const imageAltText = "A man holding running medal Standing in front of the finishing line";
    ```
 
 * `/src/Components/About.jsx` - Fundo por trás da seção detalhada "sobre mim" (mosaico abstrato no exemplo)
    ```javascript
       import image from "../images/mosaic.svg";
-      const imageAltText = "purple and blue abstract background";
+      const imageAltText = "Motion Background";
    ```
 
 * `/src/Components/Portfolio.jsx` - Imagem destacada no lado esquerdo da seção (foto de mesa de design no exemplo)
    ```javascript
       import image from "../images/design-desk.jpeg";
-      const imageAltText = "desktop with books and laptop";
+      const imageAltText = "desktop with Planning and portfolio";
    ```
 
 ### 3️⃣ Adicione itens nos quais você trabalhou

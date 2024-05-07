@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/motion-background.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Motion Background";
 
 /**
  * Sort description that expands on your title on the Home component.
